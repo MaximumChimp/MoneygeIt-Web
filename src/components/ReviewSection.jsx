@@ -88,7 +88,7 @@ export default function ReviewSection() {
       : 0;
 
   return (
-    <section className="min-h-screen bg-gradient-to-b from-white to-[#EDEDEE] flex flex-col items-center justify-center px-6 py-16 text-center">
+    <section id="review" className="min-h-screen bg-gradient-to-b from-white to-[#EDEDEE] flex flex-col items-center justify-center px-6 py-16 text-center">
       <h2 className="text-3xl md:text-4xl font-extrabold text-[#145C84] mb-2">
         Customer Reviews
       </h2>
